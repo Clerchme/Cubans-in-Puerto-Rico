@@ -8,9 +8,15 @@
   },
   "users": [
     {
+      "login_name": "Clerchme",
+      "avatar_url": "https://avatars.githubusercontent.com/u/336578141?v=4",
+      "admin": true
+    },
+    {
       "login_name": "karaculp",
       "avatar_url": "https://avatars.githubusercontent.com/u/241790806?v=4",
-      "admin": false
+      "admin": false,
+      "not_accepted": true
     }
   ],
   "project": {
@@ -36,6 +42,27 @@
       "tags": []
     },
     "created_at": "2026-11-05T21:37:51.687Z",
-    "updated_at": "2026-11-05T21:37:51.687Z"
-  }
+    "updated_at": "2026-11-05T21:37:51.687Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "6b0794e8-0bec-4689-9fca-e844f7be01b6": {
+      "content": [],
+      "created_at": "2026-11-05T21:37:51.697Z",
+      "created_by": "Clerchme",
+      "title": "Cubans in Puerto Rico (TEST)",
+      "updated_at": "2026-11-05T21:37:51.697Z",
+      "updated_by": "Clerchme",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "6b0794e8-0bec-4689-9fca-e844f7be01b6"
+  ]
 }
