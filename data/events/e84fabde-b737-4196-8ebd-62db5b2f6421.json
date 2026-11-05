@@ -1,0 +1,45 @@
+{
+  "audiovisual_files": {
+    "c9227869-4a13-4f12-bced-65c25fcb5098": {
+      "label": "Ecos del Exilio",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://www.youtube.com/watch?v=j0a52tQ5sls",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Cubans in Puerto Rico: Migration, Associational Life, and Community Memory",
+          "italic": true
+        },
+        {
+          "text": " offers a critical reading of "
+        },
+        {
+          "text": "Ecos del Exilio",
+          "italic": true
+        },
+        {
+          "text": "(2013), directed by Natalia Bonilla. Through an essay and annotations linked to specific moments in the documentary, the project examines how Cuban migrants and their descendants narrate departure, remember Cuba, and negotiate belonging in Puerto Rico. The annotations connect the interviews with historical context and scholarship on migration, memory, and identity. Particular attention is given to family separation, political disagreement, cultural associations, and the possibility of return. Designed as a resource for teaching and discussion, the project explores how memories acquire authority, change across generations, and inform different understandings of what it means to belong."
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "Ecos del Exilio ",
+  "av_file_order": [
+    "c9227869-4a13-4f12-bced-65c25fcb5098"
+  ],
+  "rights_statement": "https://rightsstatements.org/vocab/InC-EDU/1.0/",
+  "created_at": "2026-11-05T21:41:21.323Z",
+  "created_by": "Clerchme",
+  "updated_at": "2026-11-05T21:41:21.323Z",
+  "updated_by": "Clerchme"
+}
