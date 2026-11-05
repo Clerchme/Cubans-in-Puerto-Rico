@@ -75,10 +75,6 @@
       "tags": [
         {
           "category": "_uncategorized_",
-          "tag": "Timeline"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "Representation of Cuba"
         },
         {
@@ -716,7 +712,7 @@
       ]
     },
     "created_at": "2026-11-05T21:37:51.687Z",
-    "updated_at": "2026-11-05T22:11:31.898Z",
+    "updated_at": "2026-11-05T22:12:51.354Z",
     "generate_pages_site": true
   },
   "annotations": {},
