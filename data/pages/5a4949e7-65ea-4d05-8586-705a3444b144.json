@@ -387,7 +387,33 @@
       "align": "justify",
       "children": [
         {
-          "text": "[INSERT ANNOTATED DOCUMENTARY FRAGMENT — 26:44–28:13]"
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "e84fabde-b737-4196-8ebd-62db5b2f6421",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "start": 1604,
+      "end": 1693,
+      "file": "c9227869-4a13-4f12-bced-65c25fcb5098",
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -1220,6 +1246,6 @@
   "slug": "v-making-community-associational-life-and-in",
   "created_at": "2026-11-06T12:50:13.369Z",
   "created_by": "Clerchme",
-  "updated_at": "2026-11-06T12:50:32.224Z",
+  "updated_at": "2026-11-06T15:22:42.668Z",
   "updated_by": "Clerchme"
 }
