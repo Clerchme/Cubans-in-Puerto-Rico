@@ -143,7 +143,33 @@
       "children": [
         {
           "bold": true,
-          "text": "[INSERT ANNOTATED DOCUMENTARY FRAGMENT — 08:05–08:44]"
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "e84fabde-b737-4196-8ebd-62db5b2f6421",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "start": 485,
+      "end": 524,
+      "file": "c9227869-4a13-4f12-bced-65c25fcb5098",
+      "type": "event",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -273,7 +299,33 @@
       "children": [
         {
           "bold": true,
-          "text": "[INSERT ANNOTATED DOCUMENTARY FRAGMENT — 11:44–12:38]"
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "e84fabde-b737-4196-8ebd-62db5b2f6421",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "start": 704,
+      "end": 758,
+      "file": "c9227869-4a13-4f12-bced-65c25fcb5098",
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -475,7 +527,33 @@
       "children": [
         {
           "bold": true,
-          "text": "[INSERT ANNOTATED DOCUMENTARY FRAGMENT — 24:13–26:22]"
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "e84fabde-b737-4196-8ebd-62db5b2f6421",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "start": 1453,
+      "end": 1582,
+      "file": "c9227869-4a13-4f12-bced-65c25fcb5098",
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -655,7 +733,33 @@
       "children": [
         {
           "bold": true,
-          "text": "[INSERT ANNOTATED DOCUMENTARY FRAGMENT — 28:13–30:44]"
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "e84fabde-b737-4196-8ebd-62db5b2f6421",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "start": 1693,
+      "end": 1844,
+      "file": "c9227869-4a13-4f12-bced-65c25fcb5098",
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -1130,7 +1234,7 @@
   "slug": "iv-family-memory-generations-and-meanings-o",
   "created_at": "2026-11-06T12:13:59.814Z",
   "created_by": "Clerchme",
-  "updated_at": "2026-11-06T12:42:03.944Z",
+  "updated_at": "2026-11-06T15:20:45.782Z",
   "updated_by": "Clerchme",
   "parent": "c374fd11-8285-4e6f-a9f3-e7c524608637"
 }
