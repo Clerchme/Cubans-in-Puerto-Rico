@@ -55,12 +55,12 @@
     },
     {
       "type": "paragraph",
-      "align": "justify",
       "children": [
         {
           "text": ""
         }
-      ]
+      ],
+      "align": "justify"
     },
     {
       "type": "paragraph",
@@ -87,7 +87,8 @@
           "text": "",
           "bold": true
         }
-      ]
+      ],
+      "align": "justify"
     },
     {
       "type": "paragraph",
@@ -96,24 +97,8 @@
           "bold": true,
           "text": ""
         }
-      ]
-    },
-    {
-      "type": "image",
-      "url": "blob:https://chatgpt.com/9a957672-cb11-4ca1-a4f5-d9b5c23ae74a",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
+      ],
+      "align": "justify"
     },
     {
       "type": "paragraph",
@@ -123,7 +108,8 @@
           "text": " TIMELINEJS CHRONOLOGY HERE",
           "link": "https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vTwNYnoW3dMpOeO6kFNepRoTYYq98ygVbI2kqv3ElX0pgo4kJVY6RrJ9A4_u8wkug&font=Default&lang=en&initial_zoom=2&width=100%25&height=650"
         }
-      ]
+      ],
+      "align": "justify"
     },
     {
       "type": "heading-two",
@@ -131,7 +117,8 @@
         {
           "text": "1. Historical Time and the Problem of Beginnings"
         }
-      ]
+      ],
+      "align": "justify"
     },
     {
       "type": "paragraph",
@@ -146,7 +133,17 @@
         {
           "text": " within longer historical processes that shaped the possibilities and meanings of movement between them."
         }
-      ]
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ],
+      "align": "justify"
     },
     {
       "type": "paragraph",
@@ -154,7 +151,17 @@
         {
           "text": "The comparative arrangement also requires distinguishing chronological proximity from historical equivalence. The abolition of slavery in Puerto Rico in 1873 and Cuba in 1886, for example, belongs to related struggles over colonial labor and freedom, but their different dates cannot explain the distinct experiences of emancipation without further attention to the institutions and social relationships involved. Similarly, the transformations following 1898 produced different frameworks of political sovereignty and citizenship. Placing these developments on a shared timeline makes their connections available for examination without suggesting that comparable events produced identical consequences. Chronology identifies relationships worth investigating; historical interpretation establishes what those relationships mean."
         }
-      ]
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ],
+      "align": "justify"
     },
     {
       "type": "paragraph",
@@ -162,7 +169,17 @@
         {
           "text": "This distinction becomes especially important when the chronology approaches the twentieth century. The Cuban Revolution of 1959 occupies a prominent position in accounts of Cuban migration, but its significance differs according to the population and historical process under examination. Jorge Duany's “Cuban Migration: A Postrevolution Exodus Ebbs and Flows” distinguishes successive migration periods, including the departures of 1959–1962, the Freedom Flights of 1965–1973, the Mariel boatlift of 1980, and the 1994 rafter crisis. These periods describe changing circumstances of Cuban migration principally toward the United States. They cannot automatically serve as an equivalent chronology of Cuban settlement in Puerto Rico."
         }
-      ]
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ],
+      "align": "justify"
     },
     {
       "type": "paragraph",
@@ -170,7 +187,8 @@
         {
           "text": "Duany's separate examination of immigration to Puerto Rico makes this geographical distinction concrete. Cuban immigration to the island increased considerably during the 1960s but declined sharply in the early 1980s. Relatively few participants in the Mariel exodus settled in Puerto Rico. The Cuba-born resident population subsequently declined from 22,811 in 1980 to 9,548 in 2019, according to the census estimates discussed in his study (“Inmigración de cubanos y dominicanos a Puerto Rico”). These figures document changes in a population defined by birthplace; they do not measure the entire population of Cuban descent or establish the disappearance of Cuban cultural identification. The difference between migration flows, resident populations, and intergenerational belonging is essential when constructing a history of diasporic continuity."
         }
-      ]
+      ],
+      "align": "justify"
     },
     {
       "type": "heading-two",
@@ -178,7 +196,8 @@
         {
           "text": "2. Associational Time and the Making of Community Memory"
         }
-      ]
+      ],
+      "align": "justify"
     },
     {
       "type": "paragraph",
@@ -193,10 +212,21 @@
         {
           "text": ", revised in 2005, records the association's registration with Puerto Rico's Department of State on April 25, 1949, under number 1670 (art. 2). The date precedes the Revolution and demonstrates that formal Cuban associational life existed in Puerto Rico before the post-1959 migrations. It does not establish that the institution's membership, political commitments, or activities remained unchanged across the following decades. The later regulations document an institutional history that underwent revision and reinterpretation."
         }
-      ]
+      ],
+      "align": "justify"
     },
     {
       "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
       "children": [
         {
           "text": "The chronological record must therefore distinguish between the establishment of an association and the meanings subsequently attributed to it. The Círculo Cubano's fiftieth-anniversary publication of 1999 represents a later moment in which the institution publicly commemorated its continuity. Jan Assmann's distinction between communicative memory and culturally organized forms of remembrance is useful here: memories circulated through social relationships can acquire different forms of durability when they are incorporated into commemorations, publications, and institutional practices (127–29). A registration date and an anniversary publication consequently constitute different kinds of historical evidence. The first documents a formal act of organization; the second reveals how an institution presented its history to a later audience."
@@ -205,6 +235,16 @@
     },
     {
       "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
       "children": [
         {
           "text": "This distinction also explains why the chronology includes audiovisual and printed sources alongside political events and migration legislation. The 2017 entry for "
@@ -224,7 +264,8 @@
         {
           "text": "3. Historical Chronology and the Documentary Construction of Exile Memory"
         }
-      ]
+      ],
+      "align": "justify"
     },
     {
       "type": "paragraph",
@@ -239,7 +280,8 @@
         {
           "text": ". In the sequence from 01:33 to 03:03, he places particular emphasis on Cubans who arrived in Puerto Rico during the 1960s and 1970s. His account gives these decades prominence in the history of a recognizable exile community (Bonilla 00:01:33–00:03:03). Read alongside the chronology, this periodization raises a question that cannot be resolved simply by comparing dates: how does a particular generation's experience of migration become a reference point for explaining the formation of a wider community?"
         }
-      ]
+      ],
+      "align": "justify"
     },
     {
       "type": "paragraph",
@@ -283,7 +325,8 @@
         {
           "text": ""
         }
-      ]
+      ],
+      "align": "justify"
     },
     {
       "type": "paragraph",
@@ -295,7 +338,8 @@
         {
           "text": ". Directed by Natalia Bonilla. “Cuban Exile in Puerto Rico: Collective Memory, Mourning, and Nostalgia.” Selected sequence, 01:33–03:03. Existing AVAnnotate annotation."
         }
-      ]
+      ],
+      "align": "justify"
     },
     {
       "type": "paragraph",
@@ -303,7 +347,8 @@
         {
           "text": ""
         }
-      ]
+      ],
+      "align": "justify"
     },
     {
       "type": "paragraph",
@@ -311,7 +356,8 @@
         {
           "text": "Alessandro Portelli's “What Makes Oral History Different” provides a methodological approach to this question. His analysis distinguishes the information that narrators communicate about past events from the meanings they assign to those events through recollection and narrative organization. Applying this distinction to Candelario requires attention to the specific community he describes. The prominence of the 1960s and 1970s in his account may reveal the historical importance of those migrations for a particular understanding of Cuban exile in Puerto Rico. It does not, by itself, establish that earlier Cuban social networks were absent or that later migrants necessarily shared the same interpretation of community origins."
         }
-      ]
+      ],
+      "align": "justify"
     },
     {
       "type": "paragraph",
@@ -319,7 +365,8 @@
         {
           "text": ""
         }
-      ]
+      ],
+      "align": "justify"
     },
     {
       "type": "paragraph",
@@ -327,7 +374,8 @@
         {
           "text": "The documentary adds another level of mediation. Candelario's account is not an unedited historical record presented independently of its audiovisual setting; it forms part of a film that selects speakers and organizes their interventions into a broader narrative. The emphasis assigned to a particular period therefore emerges through both the participant's explanation and its position within the documentary. Reading the fragment alongside the chronology allows these different operations to be examined without treating one source as historically objective and the other as merely subjective. Both involve selection, although they do so through different procedures and for different purposes."
         }
-      ]
+      ],
+      "align": "justify"
     },
     {
       "type": "paragraph",
@@ -335,7 +383,8 @@
         {
           "text": ""
         }
-      ]
+      ],
+      "align": "justify"
     },
     {
       "type": "paragraph",
@@ -343,7 +392,8 @@
         {
           "text": "The resulting comparison identifies three related but distinct temporal dimensions: the dates of historical events, the periods through which people interpret their lives, and the later moments when these interpretations enter publicly circulating records. A community may have an institutional history preceding a migration wave that later acquires exceptional significance in its collective remembrance. That significance belongs to the history of the community as well, provided it is not mistaken for evidence that all its members experienced the past in the same way."
         }
-      ]
+      ],
+      "align": "justify"
     },
     {
       "type": "paragraph",
@@ -358,10 +408,28 @@
         {
           "text": ", examining how revolutionary change, political classifications, family relationships, and the expectation of return shaped different understandings of migration."
         }
-      ]
+      ],
+      "align": "justify"
     },
     {
       "type": "heading-two",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://iiif-cloud.princeton.edu/iiif/2/1d%2Fa2%2F02%2F1da202132c664d269fc62cb0fe7ad71b%2Fintermediate_file/full/!453,535/0/default.jpg",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
       "children": [
         {
           "text": ""
@@ -578,7 +646,7 @@
   "slug": "a-connected-chronology",
   "created_at": "2026-11-06T00:32:39.414Z",
   "created_by": "Clerchme",
-  "updated_at": "2026-11-06T00:32:56.831Z",
+  "updated_at": "2026-11-06T00:46:11.202Z",
   "updated_by": "Clerchme",
   "parent": "c374fd11-8285-4e6f-a9f3-e7c524608637"
 }
