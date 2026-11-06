@@ -102,6 +102,47 @@
       ]
     },
     {
+      "uuid": "e84fabde-b737-4196-8ebd-62db5b2f6421",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "end": 120,
+      "file": "c9227869-4a13-4f12-bced-65c25fcb5098",
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "paragraph",
       "children": [
         {
@@ -1345,7 +1386,7 @@
   "slug": "iii-leaving-cuba-revolution-exile-and-the",
   "created_at": "2026-11-06T01:10:53.507Z",
   "created_by": "Clerchme",
-  "updated_at": "2026-11-06T12:41:51.561Z",
-  "updated_by": "Clerchme",
+  "updated_at": "2026-11-06T17:53:00.258Z",
+  "updated_by": "karaculp",
   "parent": "c374fd11-8285-4e6f-a9f3-e7c524608637"
 }
