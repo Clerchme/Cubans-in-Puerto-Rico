@@ -1,0 +1,858 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "italic": true,
+          "text": "Historical Relationships, Contested Belonging, and Audiovisual Representation",
+          "bold": true
+        }
+      ],
+      "align": "center"
+    },
+    {
+      "type": "paragraph",
+      "align": "center",
+      "children": [
+        {
+          "italic": true,
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "heading-three",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "heading-three",
+      "children": [
+        {
+          "text": "Migration, History, and the Limits of a Single Narrative",
+          "bold": true
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The history of Cuban migration to Puerto Rico cannot be adequately understood through a single moment of departure, a shared political identification, or an uninterrupted continuity of cultural memory. The sources examined throughout this digital essay reveal a more complex history in which movement between the islands, political transformations, family relationships, institutional participation, and changing understandings of belonging developed across different historical periods. The Cuban Revolution of 1959 profoundly altered the circumstances and meanings of migration, but it did not establish the beginning of all relationships between Cuba and Puerto Rico. Nor did the departures that followed produce a community whose members necessarily understood their experiences through the same political or cultural categories."
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The longer history of Caribbean connections examined at the beginning of this project provides an essential framework for this conclusion. Anticolonial cooperation, struggles over political sovereignty, cultural exchanges, and the different consequences of United States expansion established relationships between Cuba and Puerto Rico well before the revolutionary transformations of the twentieth century. These connections did not make the histories of the two islands interchangeable. Rather, they created circumstances within which subsequent migration acquired meanings shaped by both historical proximity and institutional difference. Cuban settlement in Puerto Rico consequently developed within a society that had its own political trajectory and an established history of relationships with Cuba."
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This historical perspective also complicates the prominence of exile as an organizing category. Political displacement was fundamental to the experiences of many Cubans who left after 1959, but the term does not encompass every motivation for migration or every subsequent relationship with the country of origin. Economic reconstruction, family responsibilities, religious commitments, professional opportunities, and personal attachments could intersect with political circumstances without becoming identical to them. The testimonies examined in "
+        },
+        {
+          "text": "Ecos del Exilio",
+          "italic": true
+        },
+        {
+          "text": " demonstrate the importance of these distinctions. Their value does not lie in establishing a representative account of all Cuban migrants, but in revealing how particular people interpreted departures and transformations that affected them differently."
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "heading-three",
+      "children": [
+        {
+          "text": "Community Formation as a Historical and Relational Process",
+          "bold": true
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "heading-three",
+      "align": "justify",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The development of Cuban community life in Puerto Rico involved more than the preservation of memories brought from Cuba. Migrants established households, entered economic relationships, participated in local institutions, formed associations, and raised children whose experiences of Puerto Rico differed from their own. These processes transformed the circumstances under which Cuban belonging could be maintained and expressed. Community formation therefore cannot be understood exclusively as the reproduction of an earlier national society in another geographical location. It emerged through relationships developed within Puerto Rico and through continued connections with Cuba and other migrant communities."
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Family narratives constituted one dimension of this process. Accounts of departure, property loss, political disagreement, separation, and nostalgia introduced later generations to experiences they had not witnessed. Yet their transmission did not guarantee agreement about what those experiences meant. Children and grandchildren could recognize the significance of family histories while developing different relationships to Cuba and Puerto Rico. Remembering an event and accepting a particular interpretation of its political consequences were not necessarily the same operation. The documentary's generational disagreements make this distinction visible, demonstrating that the transmission of cultural memory can involve reinterpretation as well as continuity."
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Organized community life introduced another dimension. The history of the Círculo Cubano de Puerto Rico establishes that formal Cuban associational activity preceded the revolutionary migrations, while the institution's later commemorations and cultural initiatives reveal how its public significance developed under changing circumstances. Its regulations, anniversary publication, and representation in "
+        },
+        {
+          "text": "Ecos del Exilio",
+          "italic": true
+        },
+        {
+          "text": " document different aspects of institutional continuity and self-representation. Taken together, these sources demonstrate how organizations can provide public settings for cultural participation and collective remembrance. They do not establish that institutional narratives encompass the experiences or political views of everyone who identifies as Cuban in Puerto Rico."
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The distinction between community participation and community representation is central to the argument developed here. Associations can preserve traditions and organize shared activities while also establishing particular conditions of membership and expressing historically situated political positions. Similarly, the persistence of an institution does not necessarily indicate that the population surrounding it remains demographically or culturally unchanged. The community's history includes both the durability of organized relationships and the transformations through which their meanings are reconsidered."
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "heading-three",
+      "children": [
+        {
+          "text": "Return, Transnational Relationships, and Political Difference",
+          "bold": true
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "heading-three",
+      "align": "justify",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The possibility of returning to Cuba provides another example of how migration relationships changed over time. In "
+        },
+        {
+          "text": "55 hermanos",
+          "italic": true
+        },
+        {
+          "text": " (1978), the first journey of the Antonio Maceo Brigade becomes the occasion for encounters with childhood landscapes, family members, and remembered places. The film's representations of nostalgia and reunification demonstrate how returning could involve attachments that were not reducible to explicit political positions. At the same time, the organized character of the visit and the documentary's production by ICAIC locate these experiences within a historically specific political and audiovisual framework."
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The later recollections presented in "
+        },
+        {
+          "text": "Ecos del Exilio",
+          "italic": true
+        },
+        {
+          "text": " extend these questions beyond the initial encounters of the 1970s. Participants and descendants express different positions about visiting Cuba, maintaining relationships with relatives, and responding to the political convictions of earlier generations. Their accounts distinguish the possibility of entering a country from the expectation of being recognized as belonging there. Physical return cannot restore the conditions that existed before migration, nor does it necessarily resolve disagreements about the political meaning of renewed contact."
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The continuation of transnational relationships further complicates the idea of exile as permanent separation. Family assistance, religious networks, political advocacy, and communication across borders maintained connections even when individuals established lasting lives elsewhere. These practices were shaped by unequal resources, governmental regulations, and competing political interpretations. They cannot automatically be understood as expressions of either support for or opposition to the Cuban government. Their historical significance lies partly in showing how practical responsibilities and social relationships could persist without requiring political consensus."
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "For Puerto Rico, these developments must also be situated within the changing demographic and institutional circumstances of the Cuban population. Patterns of settlement differed from those of Miami, where successive migration movements contributed to a different scale and configuration of community life. The reduction in Cuba-born residents documented in demographic research does not, by itself, establish the disappearance of Cuban belonging among descendants. It instead raises questions about the changing relationships among migration, institutional continuity, cultural participation, and the meanings of national identification."
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "heading-three",
+      "children": [
+        {
+          "text": "Audiovisual Testimony and the Production of Community Memory",
+          "bold": true
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "heading-three",
+      "align": "justify",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The central methodological contribution of this project lies in examining audiovisual testimonies as historically situated representations rather than transparent accounts of collective experience. "
+        },
+        {
+          "text": "Ecos del Exilio",
+          "italic": true
+        },
+        {
+          "text": " brings together participants whose memories and political interpretations do not necessarily coincide. Its documentary form allows these differences to become visible through selection, editing, and the arrangement of interviews. The resulting relationships among testimonies are significant, but they must not be confused with a conversation in which all participants directly responded to one another or reached a shared conclusion."
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The distinction between narrated experience, audiovisual representation, and historical interpretation has guided the essay's treatment of its sources. A participant's recollection provides evidence of the way an event is remembered and explained within a particular recording. Historical scholarship and documentary records can establish circumstances that contextualize the account, while the film's arrangement shapes how viewers encounter it. These forms of evidence operate together without becoming interchangeable. Recognizing their different functions allows the project to examine the historical significance of testimony without requiring individual memories to serve as comprehensive explanations of broader social processes."
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The comparison between "
+        },
+        {
+          "text": "Ecos del Exilio",
+          "italic": true
+        },
+        {
+          "text": " and "
+        },
+        {
+          "text": "55 hermanos",
+          "italic": true
+        },
+        {
+          "text": " makes the importance of audiovisual mediation especially clear. Produced in different decades and institutional settings, the documentaries organize experiences of migration and return through different narrative concerns. The earlier film foregrounds the encounters of young emigrants returning to Cuba, while Bonilla's later documentary places diverse recollections within a discussion of exile and Cuban life in Puerto Rico. Their differences do not make one source inherently more authentic than the other. They establish distinct historical moments in the production and public circulation of representations of Cuban migration."
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Other materials examined in the essay similarly require attention to their particular evidentiary functions. The historical chronology identifies developments that shaped movement and political relationships between the islands. Legal sources document institutional frameworks within which mobility and membership became possible or restricted. Associational regulations describe formal objectives and expectations, while commemorative publications reveal how organizations presented their histories to particular audiences. None of these sources independently captures the totality of Cuban community life in Puerto Rico. Their analytical value emerges through comparison, especially when they illuminate different aspects of an experience or complicate conclusions suggested by another record."
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The digital format adds a further dimension to this process. By situating time-coded audiovisual annotations within an extended historical argument, the essay allows readers to move between particular testimonies and the scholarship or documents used to interpret them. These annotations do not replace the analytical text. They identify specific moments in which statements, images, and audiovisual arrangements become relevant to a historical question. The selection of these moments is itself an interpretive decision. Consequently, the digital essay also participates in the public circulation of community memory and must remain attentive to the limits of its own representation."
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "heading-three",
+      "children": [
+        {
+          "text": "What the Sources Make Visible—and What Remains Beyond Them",
+          "bold": true
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "heading-three",
+      "align": "justify",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The sources assembled here make it possible to examine historically significant experiences of migration, separation, community organization, return, and political disagreement. They also reveal the limits of reconstructing a community through materials shaped by particular institutions, participants, and circumstances of production. The voices represented in "
+        },
+        {
+          "text": "Ecos del Exilio",
+          "italic": true
+        },
+        {
+          "text": " cannot be assumed to encompass every generation, social position, migration period, or political perspective within the Cuban population of Puerto Rico. Nor can the experiences documented through formal associations establish the full range of relationships through which people maintained Cuban cultural identification outside those organizations."
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "These limitations do not diminish the significance of the documentary or the other sources. They clarify the scope of the historical claims that can be developed from them. The absence of a particular experience from a film or institutional publication does not establish that it was deliberately excluded, while the presence of an influential narrative does not demonstrate that every member of a community accepted its interpretation. Distinguishing these possibilities allows the essay to recognize the historical importance of publicly circulating representations without treating them as exhaustive accounts of social life."
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The materials examined also suggest questions that extend beyond the present project. How did Cubans who arrived in Puerto Rico during later migration periods participate in established institutions or develop different forms of association? How have descendants who do not identify primarily through exile interpreted their relationships with Cuba? What forms of family and community memory circulate outside formal organizations and publicly available documentaries? These questions identify the boundaries of the current evidence rather than deficiencies that can be resolved through speculation. They indicate how additional sources could expand the history reconstructed here."
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "heading-three",
+      "children": [
+        {
+          "text": "Conclusion: Belonging as an Ongoing Historical Relationship",
+          "bold": true
+        }
+      ],
+      "align": "center"
+    },
+    {
+      "type": "heading-three",
+      "align": "justify",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The history developed across this digital essay demonstrates that Cuban belonging in Puerto Rico cannot be reduced to shared ancestry, the political circumstances of departure, or the preservation of a common interpretation of Cuba. It emerged through historically changing relationships among migrants, descendants, families, cultural institutions, and the societies in which they lived. These relationships could sustain memories and practices across generations while also producing disagreement about their meaning. Cultural continuity and political difference were not necessarily opposing forces; they could coexist within the same families, organizations, and communities."
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The central question is therefore not whether Cuban migrants and their descendants successfully preserved an unchanged identity after leaving the island. It is how their relationships with Cuba and Puerto Rico became meaningful through experiences of separation, reconstruction, participation, memory, and renewed contact. A remembered country could remain emotionally significant without determining an individual's future residence or political position. An institution could preserve cultural practices without representing every member of a population. A family could transmit its history without requiring descendants to reproduce an earlier generation's understanding of exile."
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "By bringing "
+        },
+        {
+          "text": "Ecos del Exilio",
+          "italic": true
+        },
+        {
+          "text": " into conversation with historical documents, institutional records, scholarship, and another audiovisual representation of return, this project has examined how particular experiences become part of broader narratives of community memory. Its argument does not depend on identifying a single account capable of representing Cuban migration to Puerto Rico in its entirety. Instead, it demonstrates the historical significance of the relationships and disagreements through which people continue to interpret that migration."
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The history of Cubans in Puerto Rico is consequently not only a history of people who left one island and established their lives on another. It is also a history of the relationships through which Cuba and Puerto Rico remained connected, the meanings attached to those connections, and the forms of remembrance that made particular experiences visible across time. Understanding this history requires preserving the plurality of those experiences without dissolving the political, institutional, and material differences that shaped them. Community memory emerges not as a completed inheritance, but as a continuing historical process through which belonging is remembered, practiced, interpreted, and contested."
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "heading-two",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "heading-two",
+      "children": [
+        {
+          "text": "Principal Sources Referenced"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Bonilla, Natalia, director. "
+        },
+        {
+          "text": "Ecos del Exilio",
+          "italic": true
+        },
+        {
+          "text": ". 2013. "
+        },
+        {
+          "text": "YouTube",
+          "italic": true
+        },
+        {
+          "text": ", uploaded by MictilBrand Studios, 30 July 2017, "
+        },
+        {
+          "type": "link",
+          "url": "https://www.youtube.com/watch?v=j0a52tQ5sls",
+          "children": [
+            {
+              "text": "https://www.youtube.com/watch?v=j0a52tQ5sls"
+            }
+          ]
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Círculo Cubano de Puerto Rico. "
+        },
+        {
+          "text": "Reglamento",
+          "italic": true
+        },
+        {
+          "text": ". Revised 2005."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Díaz, Jesús, director. "
+        },
+        {
+          "text": "55 hermanos",
+          "italic": true
+        },
+        {
+          "text": ". Instituto Cubano del Arte e Industria Cinematográficos, 1978. "
+        },
+        {
+          "text": "YouTube",
+          "italic": true
+        },
+        {
+          "text": ", “55 hermanos--parte 1,” "
+        },
+        {
+          "type": "link",
+          "url": "https://youtu.be/-2DqEw7moCg",
+          "children": [
+            {
+              "text": "https://youtu.be/-2DqEw7moCg"
+            }
+          ]
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Duany, Jorge. “Caribbean Migration to Puerto Rico: A Comparison of Cubans and Dominicans.” "
+        },
+        {
+          "text": "International Migration Review",
+          "italic": true
+        },
+        {
+          "text": ", vol. 26, no. 1, 1992, pp. 46–66."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Duany, Jorge. “Inmigración de cubanos y dominicanos a Puerto Rico.” "
+        },
+        {
+          "text": "EnciclopediaPR",
+          "italic": true
+        },
+        {
+          "text": ", updated 12 May 2021."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Levitt, Peggy, and Nina Glick Schiller. “Conceptualizing Simultaneity: A Transnational Social Field Perspective on Society.” "
+        },
+        {
+          "text": "International Migration Review",
+          "italic": true
+        },
+        {
+          "text": ", vol. 38, no. 3, 2004, pp. 1002–39."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "IX Beyond a Single Story: Cuban Migration and the Making of Community Memory in Puerto Rico",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "ix-beyond-a-single-story-cuban-migration-and",
+  "created_at": "2026-11-06T14:27:05.368Z",
+  "created_by": "Clerchme",
+  "updated_at": "2026-11-06T14:27:05.368Z",
+  "updated_by": "Clerchme"
+}
