@@ -1,0 +1,142 @@
+{
+  "audiovisual_files": {
+    "48660382-61cb-473b-a615-37d93fdd322f": {
+      "label": "55 Hermanos (I)",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://youtu.be/-2DqEw7moCg",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "heading-three",
+      "children": [
+        {
+          "text": "55 hermanos — Part 1 (1978)"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Directed by Jesús Díaz and produced by the Instituto Cubano del Arte e Industria Cinematográficos (ICAIC), "
+        },
+        {
+          "text": "55 hermanos",
+          "italic": true
+        },
+        {
+          "text": " documents the first return to Cuba of the fifty-five young Cuban emigrants who formed the Antonio Maceo Brigade. The film explores the emotional, familial, cultural, and political dimensions of their return after years of separation from their country of origin."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The documentary captures the participants arriving in Cuba, descending from the airplane, singing the Cuban national anthem, and expressing their emotions through tears and personal recollections. Their testimonies reveal different experiences of nostalgia and longing, particularly through memories of childhood, familiar landscapes, the sea, schools, homes, animals, and places associated with their lives before emigration. These recollections illuminate how attachment to a homeland can persist through sensory memories and the desire to encounter physically the places that have remained meaningful during prolonged absence."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Family reunification constitutes another central dimension of the documentary. Encounters between relatives separated for approximately two decades bring personal experiences of migration into dialogue with the historical circumstances of departure. Participants recall childhood fears, concerns surrounding parental authority ("
+        },
+        {
+          "text": "patria potestad",
+          "italic": true
+        },
+        {
+          "text": "), feelings of abandonment, and the difficulties of adapting to life in the United States. Some describe the tensions between their experiences of separation and political narratives that represented their departure as a rescue from communism, leaving limited space for expressing their attachments to Cuba."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The documentary also examines the political and cultural transformations experienced by these young emigrants in the United States. Participants discuss the influence of American education, the Civil Rights Movement, the Vietnam War, and experiences of cultural displacement on their developing political perspectives. These encounters contributed to their reconsideration of Cuba and to the circumstances surrounding the formation of the Antonio Maceo Brigade."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "As an ICAIC production, "
+        },
+        {
+          "text": "55 hermanos",
+          "italic": true
+        },
+        {
+          "text": " must also be understood as a historically situated audiovisual representation of migration and return. The selection and arrangement of interviews, emotional reunions, and political reflections shape the public narrative presented to viewers. The film therefore provides an opportunity to examine both the experiences articulated by its participants and the cinematic construction of return as a moment of personal reconnection and political significance."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Within the digital essay "
+        },
+        {
+          "text": "Cubans in Puerto Rico: Migration, Associational Life, and Community Memory",
+          "italic": true
+        },
+        {
+          "text": ", this documentary offers a comparative source for examining nostalgia, childhood displacement, family separation, and the political meanings of returning to Cuba. Its principal contribution lies in showing how personal memories and attachments intersected with broader political experiences, without assuming that all members of the Cuban diaspora understood separation or return in identical terms."
+        }
+      ]
+    }
+  ],
+  "citation": "Díaz, Jesús, director. *55 hermanos*. Instituto Cubano del Arte e Industria Cinematográficos (ICAIC), 1978. *YouTube*, “55 hermanos--parte 1,” https://youtu.be/-2DqEw7moCg.",
+  "label": "55 Hermanos",
+  "av_file_order": [
+    "48660382-61cb-473b-a615-37d93fdd322f"
+  ],
+  "rights_statement": "https://rightsstatements.org/vocab/InC-EDU/1.0/",
+  "created_at": "2026-11-06T13:30:23.614Z",
+  "created_by": "Clerchme",
+  "updated_at": "2026-11-06T13:30:23.614Z",
+  "updated_by": "Clerchme"
+}
