@@ -3,10 +3,10 @@
   "created_at": "2026-11-05T21:37:51.697Z",
   "created_by": "Clerchme",
   "title": "Cubans in Puerto Rico (TEST)",
-  "updated_at": "2026-11-05T21:37:51.697Z",
+  "updated_at": "2026-11-06T00:05:26.183Z",
   "updated_by": "Clerchme",
   "autogenerate": {
-    "enabled": true,
-    "type": "home"
+    "enabled": false,
+    "type": "custom"
   }
 }
