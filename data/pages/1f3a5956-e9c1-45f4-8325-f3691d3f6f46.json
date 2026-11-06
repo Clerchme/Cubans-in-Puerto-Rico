@@ -199,10 +199,36 @@
       "children": [
         {
           "bold": true,
-          "text": "[INSERT ANNOTATED DOCUMENTARY FRAGMENT — 09:38–10:25]"
+          "text": ""
         }
       ],
       "align": "justify"
+    },
+    {
+      "uuid": "e84fabde-b737-4196-8ebd-62db5b2f6421",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "start": 578,
+      "end": 625,
+      "file": "c9227869-4a13-4f12-bced-65c25fcb5098",
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -379,7 +405,33 @@
       "children": [
         {
           "bold": true,
-          "text": "[INSERT ANNOTATED DOCUMENTARY FRAGMENT — 08:45–09:37]"
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "e84fabde-b737-4196-8ebd-62db5b2f6421",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "start": 525,
+      "end": 577,
+      "file": "c9227869-4a13-4f12-bced-65c25fcb5098",
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -483,11 +535,37 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "[INSERT ANNOTATED DOCUMENTARY FRAGMENT — 05:28–06:35]",
+          "text": "",
           "bold": true
         }
       ],
       "align": "justify"
+    },
+    {
+      "uuid": "e84fabde-b737-4196-8ebd-62db5b2f6421",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "start": 328,
+      "end": 395,
+      "file": "c9227869-4a13-4f12-bced-65c25fcb5098",
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -608,8 +686,34 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "[INSERT ANNOTATED DOCUMENTARY FRAGMENT — 06:36–07:15]",
+          "text": "",
           "bold": true
+        }
+      ]
+    },
+    {
+      "uuid": "e84fabde-b737-4196-8ebd-62db5b2f6421",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "start": 396,
+      "end": 435,
+      "file": "c9227869-4a13-4f12-bced-65c25fcb5098",
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -715,8 +819,34 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "[INSERT ANNOTATED DOCUMENTARY FRAGMENT — 04:16–04:49]",
+          "text": "",
           "bold": true
+        }
+      ]
+    },
+    {
+      "uuid": "e84fabde-b737-4196-8ebd-62db5b2f6421",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "start": 256,
+      "end": 289,
+      "file": "c9227869-4a13-4f12-bced-65c25fcb5098",
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -1215,7 +1345,7 @@
   "slug": "leaving-cuba-revolution-exile-and-the-poli",
   "created_at": "2026-11-06T01:10:53.507Z",
   "created_by": "Clerchme",
-  "updated_at": "2026-11-06T01:16:59.709Z",
+  "updated_at": "2026-11-06T01:20:46.007Z",
   "updated_by": "Clerchme",
   "parent": "c374fd11-8285-4e6f-a9f3-e7c524608637"
 }
