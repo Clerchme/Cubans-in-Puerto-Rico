@@ -6,16 +6,35 @@
         {
           "text": ""
         }
-      ]
+      ],
+      "align": "justify"
     },
     {
       "type": "paragraph",
       "children": [
         {
-          "text": "Migration, Associational Life, and Community Memory"
+          "text": "Migration, Associational Life, and Community Memory",
+          "bold": true
         }
       ],
       "align": "center"
+    },
+    {
+      "type": "paragraph",
+      "align": "center",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -24,6 +43,15 @@
           "text": ""
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ],
+      "align": "justify"
     },
     {
       "type": "paragraph",
@@ -31,7 +59,8 @@
         {
           "text": "The history of Cuban migration to Puerto Rico cannot be understood exclusively through the political transformations of 1959 or the experiences of those who subsequently identified themselves as exiles. Movement between the two islands belongs to a longer Caribbean history of political encounters, cultural exchanges, and personal relationships. Yet the Cuban Revolution and the migrations that followed transformed the meanings of departure, displacement, and belonging, generating different ways of narrating the relationship between Cuba and Puerto Rico."
         }
-      ]
+      ],
+      "align": "justify"
     },
     {
       "type": "paragraph",
@@ -39,7 +68,8 @@
         {
           "text": ""
         }
-      ]
+      ],
+      "align": "justify"
     },
     {
       "type": "paragraph",
@@ -47,7 +77,8 @@
         {
           "text": "For Cubans who established their lives in Puerto Rico, migration involved more than the geographical relocation of individuals and families. It also entailed the formation of social networks, cultural associations, economic activities, and institutions through which connections to Cuba could be maintained, reinterpreted, or contested. These spaces participated in the production of community memory, although the experiences and political perspectives represented within them were neither uniform nor necessarily shared by subsequent generations."
         }
-      ]
+      ],
+      "align": "justify"
     },
     {
       "type": "paragraph",
@@ -55,7 +86,8 @@
         {
           "text": ""
         }
-      ]
+      ],
+      "align": "justify"
     },
     {
       "type": "paragraph",
@@ -63,7 +95,8 @@
         {
           "text": "Audiovisual materials offer a particularly productive point of entry into this history. Documentaries, recorded testimonies, and news reports preserve accounts of migration and community life while also shaping the conditions under which those accounts become selected, edited, and publicly circulated. The historical value of these materials resides not only in what their participants remember, but also in the relationships between testimony, narrative selection, audiovisual form, and the institutions involved in their production and circulation. Reading such sources historically requires attention to the experiences they document and to the perspectives through which those experiences are represented."
         }
-      ]
+      ],
+      "align": "justify"
     },
     {
       "type": "paragraph",
@@ -71,7 +104,8 @@
         {
           "text": ""
         }
-      ]
+      ],
+      "align": "justify"
     },
     {
       "type": "paragraph",
@@ -86,7 +120,8 @@
         {
           "text": " (2013) as its central audiovisual source, this digital essay examines how Cuban migration to Puerto Rico has been narrated through experiences of political displacement, family separation, generational change, nostalgia, and cultural belonging. Rather than presenting the film as a comprehensive history of the community, the project analyzes selected sequences in relation to the historical circumstances and social relationships they evoke. The documentary's juxtaposition of different voices provides an opportunity to investigate how distinct experiences become part of broader narratives of exile, how disagreements emerge among those narratives, and how audiovisual selection and arrangement shape their public representation."
         }
-      ]
+      ],
+      "align": "justify"
     },
     {
       "type": "paragraph",
@@ -94,7 +129,8 @@
         {
           "text": ""
         }
-      ]
+      ],
+      "align": "justify"
     },
     {
       "type": "paragraph",
@@ -102,7 +138,8 @@
         {
           "text": "The essay places these sequences in dialogue with historical and sociological scholarship, legal frameworks, institutional publications, and other audiovisual records. The longer history of Cuba and Puerto Rico contextualizes the political transformations that occupy a prominent place in the documentary. Materials associated with the Círculo Cubano de Puerto Rico, including a publication commemorating its fiftieth anniversary in 1999, provide evidence for examining organized community life and institutional commemoration. The commemorative publication documents a particular moment of institutional self-representation; it cannot, by itself, establish how the entire Cuban population in Puerto Rico understood its history or its relationship to the association. An independently recorded testimony by a Cuban-born woman who established her life in Puerto Rico offers another perspective on the relationship between biographical experience and national identification. These sources neither complete an otherwise deficient documentary nor necessarily contradict its participants. They make it possible to examine questions that the film develops differently, addresses only partially, or places outside its principal concerns."
         }
-      ]
+      ],
+      "align": "justify"
     },
     {
       "type": "paragraph",
@@ -110,64 +147,42 @@
         {
           "text": ""
         }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "https://iiif-cloud.princeton.edu/iiif/2/1d%2Fa2%2F02%2F1da202132c664d269fc62cb0fe7ad71b%2Fintermediate_file/full/!453,535/0/default.jpg https://iiif-cloud.princeton.edu/iiif/2/1d%2Fa2%2F02%2F1da202132c664d269fc62cb0fe7ad71b%2Fintermediate_file/full/!453,535/0/default.jpg"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "",
-          "italic": true
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "italic": true,
-          "text": "Figure 1."
-        },
-        {
-          "text": " "
-        },
-        {
-          "text": "50 aniversario. Círculo Cubano de Puerto Rico",
-          "italic": true
-        },
-        {
-          "text": ", commemorative program for the event held on 21 May 1999. Published by "
-        },
-        {
-          "text": "El Nuevo Día",
-          "italic": true
-        },
-        {
-          "text": ". Latin American Ephemera Collection, Princeton University Library Digital Collections. Rights status: Copyright Not Evaluated."
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
+      ],
+      "align": "justify"
     },
     {
       "type": "paragraph",
       "children": [
         {
           "text": "Through historical contextualization, interdisciplinary interpretation, and time-coded audiovisual annotations, this project investigates how particular accounts of migration acquire meaning, circulate publicly, and become subjects of agreement or contestation within community memory. Its central argument is that Cuban belonging in Puerto Rico cannot be understood through a single narrative of departure or an uninterrupted inheritance of exile. Rather, the meanings attached to Cuba, Puerto Rico, family, and community emerge through changing social relationships and through the distinct forms of representation in which those relationships are remembered. By examining the documentary alongside other sources, the essay seeks to explain how these historically situated experiences and representations intersect without treating them as expressions of a single, uniform diasporic identity."
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
         }
       ]
     }
@@ -180,6 +195,6 @@
   "slug": "cubans-in-puerto-rico-migration-association",
   "created_at": "2026-11-06T00:03:59.006Z",
   "created_by": "Clerchme",
-  "updated_at": "2026-11-06T00:05:27.867Z",
+  "updated_at": "2026-11-06T00:11:49.174Z",
   "updated_by": "Clerchme"
 }
