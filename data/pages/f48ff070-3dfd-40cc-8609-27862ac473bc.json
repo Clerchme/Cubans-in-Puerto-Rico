@@ -5,39 +5,20 @@
       "children": [
         {
           "text": "",
-          "italic": true
-        }
-      ],
-      "align": "justify"
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ],
-      "align": "justify"
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "Shared Histories, Divergent Paths, and Caribbean Connections",
           "bold": true
         }
       ],
-      "align": "justify"
+      "align": "center"
     },
     {
       "type": "paragraph",
+      "align": "center",
       "children": [
         {
           "bold": true,
-          "text": ""
+          "text": "Shared Histories, Divergent Paths, and Caribbean Connections"
         }
-      ],
-      "align": "justify"
+      ]
     },
     {
       "type": "paragraph",
@@ -66,6 +47,33 @@
         }
       ],
       "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Lola_Rodriguez_de_Tio.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "caption": "“Lola Rodríguez de Tió.” Photograph. *Wikimedia Commons*, https://commons.wikimedia.org/wiki/File:Lola_Rodriguez_de_Tio.jpg. Accessed 8 Nov. 2026.",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -834,6 +842,6 @@
   "slug": "i-two-islands-entangled-histories",
   "created_at": "2026-11-06T00:17:14.151Z",
   "created_by": "Clerchme",
-  "updated_at": "2026-11-06T15:30:58.113Z",
+  "updated_at": "2026-11-08T22:54:46.117Z",
   "updated_by": "Clerchme"
 }
