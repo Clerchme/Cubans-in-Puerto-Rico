@@ -60,7 +60,8 @@
         {
           "text": ""
         }
-      ]
+      ],
+      "align": "justify"
     },
     {
       "type": "paragraph",
@@ -245,6 +246,6 @@
   "slug": "cubans-in-puerto-rico-migration-association",
   "created_at": "2026-11-06T00:03:59.006Z",
   "created_by": "Clerchme",
-  "updated_at": "2026-11-06T21:36:41.038Z",
+  "updated_at": "2026-11-08T22:52:29.313Z",
   "updated_by": "Clerchme"
 }
